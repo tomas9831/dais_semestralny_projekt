@@ -1,0 +1,6 @@
+C:\Users\techn\source\repos\dais\dais\bin\Debug\dais.exe.config
+C:\Users\techn\source\repos\dais\dais\bin\Debug\dais.exe
+C:\Users\techn\source\repos\dais\dais\bin\Debug\dais.pdb
+C:\Users\techn\source\repos\dais\dais\obj\Debug\dais.csprojAssemblyReference.cache
+C:\Users\techn\source\repos\dais\dais\obj\Debug\dais.exe
+C:\Users\techn\source\repos\dais\dais\obj\Debug\dais.pdb
